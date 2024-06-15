@@ -1,4 +1,4 @@
-<h1 align="center"> GIFTED-MD VERSION 4.0.0  </h1>
+<h1 align="center"> LAMARDEBREEZY-MD VERSION 4.0.0  </h1>
 <p align="center">  
 
 ***
@@ -18,16 +18,16 @@
 
 ---
 
- <h3>Gifted-MD V.4.0.0 Stats</h3>
+ <h3>LAMARDEBREEZY-MD V.4.0.0 Stats</h3>
 
-![Giftd-mdV3 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
+![LAMARDEBREEZY-MDV3 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
 
 
     
    
-## Gifted-Md V.4.0.0 Deployment Methods
+## LAMARDEBREEZY-MD V.4.0.0 Deployment Methods
 ---
-1.  **Fork Repo First, [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
+1.  **Fork Repo First, [`CLICK HERE`](https://github.com/LAMARDEBREEZY-MD/LAMAR-DE-BREEZY-Md.git/fork) (A MUST) and `Star ⭐ Repository` for Courage.**
 2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions) OR BY [`SCANNING QR CODE1`](https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions) OR BY [`SCANNING QR CODE2`](https://web.giftedtechnexus.co.ke/bots/giftedmd/sessions)** 
 3. **Deploy on [`HEROKU`](https://web.giftedtechnexus.co.ke/bots/giftedmd/deploy/platforms/heroku)**
 8. **You can visit Bot Web [`BY CLICKING HERE`](https://web.giftedtechnexus.co.ke/bots/giftedmd) for more**
@@ -42,7 +42,7 @@
 
 
 ### I Am
-- [Gifted Tech](https://github.com/mouricedevs) 
+- [LAMAR DE BREEZY TECH](https://github.com/mouricedevs) 
 
 ---
 ### Credits:
